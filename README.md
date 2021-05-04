@@ -1,2 +1,2 @@
-# k8s-example
+# eks-example
 Application image repository for lab 3
